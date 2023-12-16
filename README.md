@@ -35,10 +35,7 @@ Por ello Nike Run Club ofrece ayudar a las personas a superar esa brecha de moti
 
 Utiliza elementos de gamificación para promover la participación y retención de los usuarios, al mismo tiempo de hacer que el entrenamiento se agradable. La **gamificación** es una técnica de aprendizaje que traslada la mecánica de los juegos al ámbito educativo-profesional con el fin de conseguir mejores resultados. La aplicación anima constantemente a los usuarios a registrar sus sesiones y a participar en desafíos, muchos de estos desafíos ofrecen medallas y premios cuando logras objetivos de esta forma animan y motivan a los usuarios, esto hace aumentar la confianza de los usuarios y la partifcipación, además te crea un ranking donde puedes ver los tiempos de otros corredores y así “competir” con ellos. 
 
-![Imagen 1][1]  ![Imagen 2][2]
-
- [1]: pictures/avatar.png
- [2]: pictures/scaphandre.png "scaphandre"
+![Interfaz de Nike Training Club del apartado de medallas, imagen de GoodUX](Nike-01.png "Interfaz de Nike Training Club del apartado de medallas, imagen de GoodUX")
 
 
 Los resultados de una buena aplicación de la gamificación son el incremento de la retención de los usuarios, hecho que ha conseguido Nike en los últimos años.
