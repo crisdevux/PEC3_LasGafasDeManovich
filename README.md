@@ -47,25 +47,41 @@ La aplicación utiliza elementos de gamificación para fomentar la participació
 El uso efectivo de la gamificación ha resultado en un aumento significativo en la retención de usuarios para Nike en los últimos años. Además, la aplicación integra la venta de productos Nike para correr, facilitando la compra online directamente desde la aplicación. Las recomendaciones de productos se personalizan según las preferencias de los usuarios (su perfil y estilo de carrera), incentivando así constantemente a los usuarios a adquirir nuevos productos de Nike.
 
 ## Room Planer
-Room Planner es una aplicación de Ikea que sirve para diseñar y decorar tus espacios de la casa en realidad aumentada para visualizar cómo quedarán cada mueble y accesorios del catálogo de IKEA en determinada habitación de la casa. 
+Room Planner es una aplicación de Ikea diseñada para planificar y decorar tus espacios de domésticos mediante realidad aumentada, permitiéndote visualizar cómo se verán los muebles y accesorios del catálogo de IKEA en una habitación específica de tu casa.
 
-La hibridación se manifiesta de manera notable en la capacidad del software para simular ambientes de manera realista, ya que los usuarios pueden visualizar sus diseños en tiempo real, por ello en la era digital, la hibridación no solo es una tendencia, sino un motor poderoso de innovación y creatividad.
+La hibridación se evidencia claramente en la capacidad del software para simular entornos de manera realista. Los usuarios pueden ver sus diseños en tiempo real, lo que convierte a la hibridación no solo en una tendencia en la era digital, sino en un motor poderoso de innovación y creatividad.
 
-Gracias a la realidad aumentada, es posible escanear cada esquina y altura de la habitación, de esta forma se miden las habitaciones de forma rápida, sencilla y precisa, ahorrando tiempo y dinero. Ideal cuando vas a hacer una reforma de tu hogar o quieres cambiar la distribución de los muebles de una determinada habitación. También se pueden encontrar proyectos ya hechos para no tener que diseñarlo todo desde cero.
+Con la realidad aumentada, es posible escanear cada rincón y altura de la habitación, facilitando la medición precisa de los espacios de manera rápida y sencilla, lo que a su vez  ahorra tiempo y dinero. Ideal para hacer renovaciones del hogar o cuando se desea cambiar la disposición de los muebles en una habitación. Además, la aplicación ofrece proyectos ya hechos para aquellos que prefieren no diseñar todo desde cero.
 
-El usuario solo necesita apuntar la cámara hacia cada esquina de la habitación y la aplicación se encargará de crear un modelo en 3D que se puede medir con precisión utilizando herramientas de medición virtuales. Esta herramientas incluyen reglas virtuales, medidores de distancia y herramientas de nivelación, entre otras. 
-
-Tambien puedes capturar el objeto con el cual no estás a gusto y organizarlo donde debe ser. 
+El usuario simplemente tiene que apuntar la cámara a cada esquina de la habitación, y la aplicación crea un modelo en 3D que se puede medir con precisión mediante herramientas virtuales como reglas, medidores de distancia y herramientas de nivelación, entre otras. 
 
 Room Planer te permite:
-* Crear planos de tu espacio.
+* Crear planos detallados de tu espacio.
 * Añadir objetos de decoración.
-* Cambiar los colores y los materiales de los muebles.
-* Cambiar la iluminación.
-* Colocar elementos como perros o personas para que te las imagines justo como deseas.
-* Compartir los diseños en redes sociales para obtener el feedback amigos.
+* Cambiar los colores y materiales de los muebles.
+* Ajustar la iluminación.
+* Incluir elementos como personas o mascotas para visualizar el diseño deseado.
+* Compartir los diseños en redes sociales para obtener comentarios de amigos.
 
-![Interfaz de Nike Training Club del apartado de medallas, imagen de GoodUX](image-nike.png "Interfaz de Nike Training Club del apartado de medallas, imagen de GoodUX")
+![Interfaz de Room Planer, imagen de Malavida](room-planner.jpg "Interfaz de Room Planer, imagen de Malavida")
 
-Este tipo de herramientas cada día se vuelven más populares y aclamadas por los diseñadores de interiores, arquitectos o simplemente por las personas que aman el orden y que cuidan al máximo la distribución de sus elementos dentro de casa. 
+Este tipo de herramientas se vuelven cada vez más populares y apreciadas, tanto por diseñadores de interiores y arquitectos como por aquellos que aman el orden y cuidan meticulosamente la distribución de elementos en sus hogares.
 
+
+## Bibliografía y Webgrafía
+
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+
+* En Wikipedia. "Lev Manovich". [Lev Manovich - Wikipedia](https://es.wikipedia.org/wiki/Lev_Manovich).
+  
+* En GoodUX. "El enfoque gamificado de Nike Run Club para el entrenamiento físico". [El enfoque gamificado de Nike Run Club para el entrenamiento físico - GoodUX](https://goodux.appcues.com/blog/nike-run-club-gamification)
+
+* En Realidad Aulemntada. "Apps para hacer planos y medir habitaciones en realidad aumentada" [Apps para hacer planos y medir habitaciones en realidad aumentada - Realidad Aumentada](https://realidadaumentada.click/apps-para-hacer-planos-y-medir-habitaciones-en-realidad-aumentada/)
+
+* Imagen 1. Imagen de plataforma Nike Run Club. Fotografía de GoodUX. [Imagen de plataforma Nike Run Club - GoodUX](https://goodux.appcues.com/blog/nike-run-club-gamification)
+
+* Imagen 2. Imagen de plataforma Room Planer en Android. Fotografía de Malavida. [Imagen de plataforma Room Planer en Android - Malavia](https://www.malavida.com/es/soft/room-planner/android/)
+
+----
+
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
