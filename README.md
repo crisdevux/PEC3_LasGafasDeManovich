@@ -81,7 +81,3 @@ Este tipo de herramientas se vuelven cada vez más populares y apreciadas, tanto
 * Imagen 1. Imagen de plataforma Nike Run Club. Fotografía de GoodUX. [Imagen de plataforma Nike Run Club - GoodUX](https://goodux.appcues.com/blog/nike-run-club-gamification)
 
 * Imagen 2. Imagen de plataforma Room Planer en Android. Fotografía de Malavida. [Imagen de plataforma Room Planer en Android - Malavia](https://www.malavida.com/es/soft/room-planner/android/)
-
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
